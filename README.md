@@ -81,7 +81,9 @@ New York City, US / [@BBGVisualData](https://twitter.com/BBGVisualData) / [Websi
 ## Boston Globe
 Boston, US / [Website](http://www.bostonglobe.com/metro/specials/data-desk)
 * [James Abundis](https://twitter.com/GlobeAbundis)
-* ? 
+* [Patrick Garvin](https://twitter.com/PatrickMGarvin)
+* [Tonia Cowan](https://twitter.com/TeeCeeBOS)
+* [Gabriel Florit](https://twitter.com/gabrielflorit)
 
 ## BR Data (Bayerischer Rundfunk)
 Munich, Germany / [Website](http://br.de/data) / [Twitter](https://twitter.com/br_data) / [Github](https://github.com/br-data)
@@ -367,6 +369,34 @@ New York City, US / [@WSJGraphics](https://twitter.com/WSJGraphics) / [Website](
 * [Jessic Yu](https://twitter.com/UjessU)
 * [Shane Shifflett](https://twitter.com/shaneshifflett)
 * ? 
+
+## The Washington Post
+Washington, DC, US / [@PostGraphics](https://twitter.com/PostGraphics)
+* [Kat Downs](https://twitter.com/katdowns)
+* [Chiqui Esteban](https://twitter.com/chiquiesteban)
+* [Kaeti Hinck](https://twitter.com/kaeti)
+* [Lazaro Gamio](https://twitter.com/LazaroGamio)
+* [Samuel Granados](https://twitter.com/samugranados)
+* [Laris Karklis](https://twitter.com/karkliscarto)
+* [Aaron Steckelberg](https://twitter.com/kaeti)
+* [Cristina Rivero](https://twitter.com/criverotwp)
+* [Bonnie Berkowitz](https://twitter.com/bonnieberkowitz)
+* [Emily Yount](https://twitter.com/emilyyount)
+* [Darla Cameron](https://twitter.com/darlacameron)
+* [Kevin Uhrmacher](https://twitter.com/KevinUhrm)
+* [Chris Alcantara](https://twitter.com/chrisalacantara)
+* [Denise Lu](https://twitter.com/DeniseDSLu)
+* [Tim Meko](https://twitter.com/timmeko)
+* [Dan Keating](https://twitter.com/dkeating)
+* [John Muyskens](https://twitter.com/JohnMuyskens)
+* [Kim Soffen](https://twitter.com/kimsoffen)
+* [Leslie Shapiro]
+* [Aaron Williams](https://twitter.com/aboutaaron)
+* [Ted Mellnik](https://twitter.com/tmellnik)
+* [Kevin Schaul](https://twitter.com/kevinschaul)
+* [Shelly Tan](https://twitter.com/Tan_Shelly)
+* [Seth Blanchard](https://twitter.com/SethBlanchard)
+
 
 ## ZEIT Online
 Berlin, Germany / [Website](http://zeit.de/datenjournalismus)
